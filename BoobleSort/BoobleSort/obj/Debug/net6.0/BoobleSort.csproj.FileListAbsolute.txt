@@ -1,0 +1,12 @@
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\bin\Debug\net6.0\BoobleSort.deps.json
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\bin\Debug\net6.0\BoobleSort.dll
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\bin\Debug\net6.0\BoobleSort.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.csproj.AssemblyReference.cache
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.AssemblyInfoInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.AssemblyInfo.cs
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.dll
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\refint\BoobleSort.dll
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\BoobleSort.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\BoobleSort\BoobleSort\obj\Debug\net6.0\ref\BoobleSort.dll
